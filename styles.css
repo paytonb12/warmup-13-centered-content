@@ -1,0 +1,21 @@
+html {
+    background-color: rgb(255, 207, 231);
+}
+
+.gold{
+    color:gold
+}
+
+.wrapper{
+    margin: 0 auto;
+    max-width: 320px;
+    background-color: rgb(172, 255, 227);
+}
+
+.site-header{
+    background-color: rgb(155, 241, 155);
+}
+
+.site-footer {
+    background-color: rgb(255, 136, 136);
+}
